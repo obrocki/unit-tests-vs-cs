@@ -7,7 +7,7 @@ In this workshop, we will discuss the importance of testing, focusing on unit te
 - [ ] Visual Studio 2022
 - [ ] C# fundamentals
 
-![image of completed project](images/Picture1.png)
+![image of completed project](./workshop/images/Picture1.png)
 
 ## Agenda
 
@@ -23,11 +23,11 @@ In this workshop, we will discuss the importance of testing, focusing on unit te
 
 - Beyond Unit Testing – Accessibility, Integration and Azure DevTest 
 
-- [Complete presentation slide deck](./Slides.pdf)
+- [Complete presentation slide deck](./workshop/Slides.pdf)
 
 ## Solution
 
-- [Source code used during the workshop](./solution)
+- [Source code used during the workshop](.workshop/solution)
 
 #
 
