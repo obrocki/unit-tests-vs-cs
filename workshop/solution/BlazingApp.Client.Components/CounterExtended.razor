@@ -1,0 +1,22 @@
+﻿<div style="background-color:lightgray;border-radius:20px;margin:10%;padding:10%"> 
+
+    <h3 class="text-info">Imported/Referenced Blazor Component - Counter</h3>
+
+    <small>Razor Class Library</small>
+
+    <p id="1">Current count: @currentCount</p>
+
+    <div id="divID" data-tab="123">Current count: @currentCount</div>
+
+    <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+</div>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
