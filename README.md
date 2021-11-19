@@ -27,7 +27,7 @@ In this workshop, we will discuss the importance of testing, focusing on unit te
 
 ## Solution
 
-- [Source code used during the workshop](./main/workshop/solution)
+- [Source code used during the workshop](/workshop/solution)
 
 #
 
