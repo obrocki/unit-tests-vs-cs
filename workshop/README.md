@@ -1,86 +1,36 @@
-# Workshop Title
+# Unit Testing - Best Practices
 
-In this workshop, we will discuss *insert your topic*.
-
-| **Project Goal**              | *describe the goal of the project*                                    |
-| ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | *describe your learning goals*                                        |
-| **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
-| **Duration**                  | *specify the duration*                                                                |
-| **Just want to try the app or see the solution?** | *a link to the completed project sample app or solution folder*                          |
-| **Slides** | [Powerpoint](slides.pptx)                          |
-
-## Pre-Learning
-
-*add a link to MS Learn for students to pre-learn the topic, if possible*
+In this workshop, we will discuss the importance of testing, focusing on unit testing, best practices and it's role in DevOps.
 
 ## Prerequisites
+ 
+- [] Visual Studio 2022
+- [] C# fundamentals
 
-*any installations that will be helpful, any hardware or software needed*
+![image of completed project](images/Picture1.png)
 
-## What students will learn
+## Agenda
 
-*describe the milestones students will accomplish in the workshop*
+- What and why of testing
 
-*add a screenshot of the completed project*
+- Testing schools of thought
 
-![image of completed project](images/placeholder.png)
+- Unit testing C# with .NET in Visual Studio
 
-## Milestone 1
+- Running tests in Azure DevOps
 
-```javascript
-//code snippets to aid in the building process
-```
+- Testing UI components
 
-> *tips, tricks, callouts*
+- Beyond Unit Testing – Accessibility, Integration and Azure DevTest 
 
-## Milestone 2
+## Solution
 
-```javascript
-//code snippets to aid in the building process
-```
+- [Source code used during the workshop](./workshop/solution)
 
-> *tips, tricks, callouts*
 
-## Milestone 3
 
-```javascript
-//code snippets to aid in the building process
-```
+#
 
-> *tips, tricks, callouts*
-
-## Milestone 4
-
-```javascript
-//code snippets to aid in the building process
-```
-
-> *tips, tricks, callouts*
-
-## Milestone 5
-
-```javascript
-//code snippets to aid in the building process
-```
-
-> *tips, tricks, callouts*
-
-## Quiz or Code Challenge
-
-*Add an activity to demonstrate that students have comprehension of the material*
-
-## Next steps
-
-*links to Microsoft Learn to further learning progress, and/or a path to certifications*
-
-## Optional Transfer knowledge activity
-
-*suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
-
-## Feedback
-
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
